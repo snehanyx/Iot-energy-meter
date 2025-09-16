@@ -19,5 +19,5 @@ An IoT-based Smart Energy Reader using **ESP32 + PZEM-004T sensor**, with a **we
 📊 Dashboard Screenshot coming soon...
 
 ---
-✨ Built by **Sneha Rani & Shruti Jain** – B.Tech EC 3rd Year  
+✨ Built by **Saneha Rani & Shruti Jain** – B.Tech EC 3rd Year  
 🏆 Secured **3rd Position** in College Project Exhibition
