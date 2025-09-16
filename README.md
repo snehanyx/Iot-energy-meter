@@ -15,7 +15,7 @@ An IoT-based Smart Energy Reader using **ESP32 + PZEM-004T sensor**, with a **we
 - Libraries: WiFi.h, WebServer.h, PZEM004Tv30.h, ArduinoJson.h
 
 ## 📷 Demo
-🎥 [Video Demo](https://your-video-link.com)  
+🎥 [Video Demo](https://drive.google.com/drive/folders/1cJF3UX0PuSeXMsNUVR-PpHDlxdN5qRXm?usp=drive_link)  
 📊 Dashboard Screenshot coming soon...
 
 ---
