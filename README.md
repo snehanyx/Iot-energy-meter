@@ -16,7 +16,6 @@ An IoT-based Smart Energy Reader using **ESP32 + PZEM-004T sensor**, with a **we
 
 ## 📷 Demo
 🎥 [Video Demo](https://drive.google.com/drive/folders/1cJF3UX0PuSeXMsNUVR-PpHDlxdN5qRXm?usp=drive_link)  
-📊 Dashboard Screenshot coming soon...
 
 ---
 ✨ Built by **Saneha Rani & Shruti Jain** – B.Tech EC 3rd Year  
